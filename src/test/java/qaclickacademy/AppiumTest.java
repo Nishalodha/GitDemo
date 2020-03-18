@@ -3,7 +3,7 @@ package qaclickacademy;
 import org.testng.annotations.Test;
 
 public class AppiumTest {
-	@Test(groups= {"smoke"})s
+	@Test(groups= {"smoke"})
 	public void NativeAppAndroid()
 	{
 		System.out.println("NativeAppAndroid");
